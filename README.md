@@ -1,5 +1,7 @@
 # SwiftUI Table Environment Bug
 
+**Apple Feedback:** FB21161857
+
 ## Summary
 
 This project demonstrates a bug in SwiftUI where environment objects accessed via `@Environment(...)`, `@EnvironmentObject`, and standard environment values like `@Environment(\.colorScheme)` are not properly propagated to views inside `Table` rows when scrolling.
