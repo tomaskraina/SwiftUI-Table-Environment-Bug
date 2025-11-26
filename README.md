@@ -1,4 +1,4 @@
-# SwiftUI Table Environment Bug
+# macOS SwiftUI Table Environment Bug
 
 **Apple Feedback:** FB21161857
 
